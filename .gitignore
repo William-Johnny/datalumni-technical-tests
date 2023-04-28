@@ -1,4 +1,7 @@
 env/
 DBGen/
+db.sqlite3-journal
 *answers*
-questions
+QUESTIONS.md
+IDEAS.md
+2021-04

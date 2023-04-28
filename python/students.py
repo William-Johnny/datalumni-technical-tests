@@ -5,7 +5,7 @@ if __name__ == "__main__":
     filename = 'students.csv'
 
     # Ecrivez une fonction permettant de récupérer toutes les lignes
-    # du fichier CSV dans une list() `data`
+    # du fichier CSV dans une list() `rows`
     rows = # TODO
     print(f'\nLe fichier brut contient {len(rows)} lignes')
 

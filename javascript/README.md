@@ -1,7 +1,7 @@
 # Test Javascript
 ## Règles du jeu
 - Vous utiliserez le projet pré-générer dans `javascript/app`
-- Vous utiliserez uniquement du **Javascript vanilla** et **Vue.js** (version 2)
+- Vous utiliserez uniquement du **Javascript/Typescript vanilla** et **Vue.js** (version 3)
 - **Aucune dépendance** n'est autorisée (uniquement les API Javascript standard)
 - Vous considérerez que l'utilisateur utilise un navigateur moderne et à jour
 - Pas de prérequis pour le rendu esthétique, vous utiliserez votre framework CSS préféré
